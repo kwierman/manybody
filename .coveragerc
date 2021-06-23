@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    manybody/__main__.py
+    manybody/_version.py
+    versioneer.py
+    tests/*
