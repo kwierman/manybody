@@ -15,12 +15,11 @@ setup(
     author_email='kwierman@gmail.com',
     url='https://github.com/kwierman/manybody',
     packages=['manybody'],
-    
     install_requires=requirements,
     keywords='manybody',
     classifiers=[
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
     ]
 )
