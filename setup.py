@@ -3,6 +3,8 @@ import versioneer
 
 requirements = [
     # package requirements go here
+    'abc', # Needed for abstract base classes
+    'xgboost'
 ]
 
 setup(
